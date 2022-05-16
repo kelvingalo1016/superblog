@@ -12,4 +12,11 @@ Master 2
 
 Creado por el increible Platzi Team.
 
+<<<<<<< HEAD
+=======
+Incluye ejemplo w, L, M
+
+Disponible para todas las edades
+
+>>>>>>> readme-mejorado
 Mañana nos enfocaremos en su vida laboral
